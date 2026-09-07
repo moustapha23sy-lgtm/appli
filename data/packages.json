@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1788198648846",
+    "code": "DETOURSN-004",
+    "sender": "gout",
+    "receiver": "jkk",
+    "origin": "j",
+    "destination": "j",
+    "status": "En transit",
+    "date": "2026-08-31"
+  },
+  {
+    "id": "1",
+    "code": "DETOURSN-001",
+    "sender": "Mamadou Sow",
+    "receiver": "Awa Diop",
+    "origin": "Paris",
+    "destination": "Dakar",
+    "status": "En transit",
+    "date": "2026-08-27"
+  },
+  {
+    "id": "2",
+    "code": "DETOURSN-002",
+    "sender": "Sokhna Fall",
+    "receiver": "Ibrahima Ndiaye",
+    "origin": "Lyon",
+    "destination": "Thiès",
+    "status": "Arrivé au pays",
+    "date": "2026-08-26"
+  },
+  {
+    "id": "3",
+    "code": "DETOURSN-003",
+    "sender": "Pierre Martin",
+    "receiver": "Ousmane Kane",
+    "origin": "Marseille",
+    "destination": "Dakar",
+    "status": "Livré",
+    "date": "2026-08-25"
+  }
+]

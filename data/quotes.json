@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1788804392417",
+    "name": "Moustapha SY",
+    "phone": "88777117",
+    "email": "",
+    "service": "Autre",
+    "message": "sdd",
+    "personnes": null,
+    "dateSouhaitee": null,
+    "status": "Nouveau",
+    "createdAt": "2026-09-07T18:06:32.417Z"
+  },
+  {
+    "id": "1788804364010",
+    "name": "crocod",
+    "phone": "771177777",
+    "email": "",
+    "service": "Billetterie",
+    "message": "vsjs",
+    "personnes": null,
+    "dateSouhaitee": null,
+    "status": "Nouveau",
+    "createdAt": "2026-09-07T18:06:04.010Z"
+  },
+  {
+    "id": "1788803610313",
+    "name": "Moustapha SY",
+    "phone": "771717777",
+    "email": "awsmoustapha@gma.com",
+    "service": "Hôtels",
+    "message": "je voudrais tester",
+    "personnes": null,
+    "dateSouhaitee": null,
+    "status": "Nouveau",
+    "createdAt": "2026-09-07T17:53:30.313Z"
+  },
+  {
+    "id": "1788803462457",
+    "name": "Fatou Ndiaye",
+    "phone": "+221 78 123 45 67",
+    "email": "fatou.ndiaye@gmail.com",
+    "service": "Oumra & Hajj",
+    "message": "Bonjour, je voudrais des renseignements pour le forfait Oumra Ramadan 2026 pour 3 personnes.",
+    "personnes": null,
+    "dateSouhaitee": null,
+    "status": "Contacté",
+    "createdAt": "2026-09-07T17:51:02.457Z"
+  },
+  {
+    "id": "1788803278201",
+    "name": "Moussa Diouf",
+    "phone": "+221 77 000 11 22",
+    "email": "moussa@example.com",
+    "service": "Voyages & Billetterie",
+    "message": "Je souhaite un billet Dakar - Paris aller-retour pour 2 personnes fin octobre.",
+    "personnes": null,
+    "dateSouhaitee": null,
+    "status": "Traité",
+    "createdAt": "2026-09-07T17:47:58.202Z"
+  }
+]
